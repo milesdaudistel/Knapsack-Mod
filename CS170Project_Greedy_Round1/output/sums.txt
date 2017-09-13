@@ -1,0 +1,22 @@
+problem1.in: 73993085.36
+problem2.in: 2005134451.44
+problem3.in: 80040653.94
+problem4.in: 52501.23
+problem5.in: 7.9175250354e+11
+problem6.in: 112899.66
+problem7.in: 1076806961.58
+problem8.in: 37039671.5
+problem9.in: 10547348628.0
+problem10.in: 631437.62
+problem11.in: 31993753.62
+problem12.in: 4312910535.66
+problem13.in: 71978218.8
+problem14.in: 3177526.27
+problem15.in: 125457039.1
+problem16.in: 4322579320.66
+problem17.in: 4437695974.87
+problem18.in: 30416508.07
+problem19.in: 1780689.31
+problem20.in: 40914170.65
+problem21.in: 221814.36
+

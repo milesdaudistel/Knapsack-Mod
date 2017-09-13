@@ -1,0 +1,22 @@
+#!/bin/bash
+python3 solver.py input/problem1.in output/problem1.out asdf
+python3 solver.py input/problem2.in output/problem2.out asdf
+python3 solver.py input/problem3.in output/problem3.out asdf
+python3 solver.py input/problem4.in output/problem4.out asdf
+python3 solver.py input/problem5.in output/problem5.out asdf
+python3 solver.py input/problem6.in output/problem6.out asdf
+python3 solver.py input/problem7.in output/problem7.out asdf
+python3 solver.py input/problem8.in output/problem8.out asdf
+python3 solver.py input/problem9.in output/problem9.out asdf
+python3 solver.py input/problem10.in output/problem10.out asdf
+python3 solver.py input/problem11.in output/problem11.out asdf
+python3 solver.py input/problem12.in output/problem12.out asdf
+python3 solver.py input/problem13.in output/problem13.out asdf
+python3 solver.py input/problem14.in output/problem14.out asdf
+python3 solver.py input/problem15.in output/problem15.out asdf
+python3 solver.py input/problem16.in output/problem16.out asdf
+python3 solver.py input/problem17.in output/problem17.out asdf
+python3 solver.py input/problem18.in output/problem18.out asdf
+python3 solver.py input/problem19.in output/problem19.out asdf
+python3 solver.py input/problem20.in output/problem20.out asdf
+python3 solver.py input/problem21.in output/problem21.out asdf
